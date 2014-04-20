@@ -1,0 +1,239 @@
+0.01
+Initial alpha release, highscores are broken, there is a few bugs in the collision detection, and performance is bad.
+
+0.02
+Initial highscore support
+
+0.03
+Replaced all timer code with two global variables, instead of every object keeping track of its own time which only uses additional resources and makes the game out of sync.
+Minor fixes
+Fixed the "lives left" text.
+Fixed bug in highscores so it only showed up first time
+Added settings.cfg and support for loading and saving settings.
+
+0.03b
+Fixed bug that made it impossible to change level, added a nonpausing tick variable
+Added background to the highscore listing
+
+0.03c
+Cleaned up the menu class.
+Made highscore listing look better.
+
+0.04
+Using lists for effects and balls instead, for more effective management of collision detection.
+Optimized a bit here and there.
+
+0.05
+Optimizing overall, code cleanup, not drawing the screen every time the simulation runs
+implemented global tick variables for frame-age.
+implemented aged frames, so the screen is now refreshed in every loop of the engine, major performance boost
+game will now write/use settings.cfg to remember settings if available (it will try to create it when a setting is changed in the menu)
+particle collision detection is off by default (turn it on in settings.cfg)
+fixed missing texture in sound-options
+game should now be optimized enough to be playable on most modern machines
+removed joystick init from sdl because it is not used
+
+0.05b
+fixing non-bug where a ball hits two bricks at the same time, and changing direction because hit detection is done at the first brick, and then at the second brick, it detects the ball as hitting the brick on another surface than what whould see realistic (this is not really a bug, but it looks better.)
+removing unused -lglut from makefile, it is not used.
+
+0.05c
+Optimizing a bit
+Made aim user controlled, using the mousewheel to aim.
+Made level editor plugin print out ** Start ** and ** Stop **.
+
+0.06
+Added speedometer
+Tweaked difficulty settings and speed-increment values
+Points are calculated on the average ballspeed, so if the balls are moving faster, more points is given.
+Made the game restart when all levels are completed, with a bigger multiplyer on points
+Stuff I don't remember
+Don't render invisible bricks
+
+0.07
+Announced text is in front of menu/dialogs
+Announce-class cleanup, fixed bug with messages getting shown wrong if they were right after eachother.
+Announce only lifes left and levelchanges. Not powerups.
+Removed moving backgrounds.
+Added internal fps counter.
+Fixed bug in multi-ball powerup that only made it spawn one ball.
+Game now restores resolution on exit.
+Aim is no longer user-controlled - made game too easy.
+Fixed speed bug
+Fixing bug that made glass-bricks break on first hit.
+
+0.08
+Texture manager can now load jpg images, but only if the filename ends in jpg (case sensitive)
+Using jpg background images now.
+Clean up bullets on screen when changing level
+Changes to levels.txt about random powerups.
+Moved powerup properties to a seperate file (data/powerups.txt)
+Some powerups are more rare than others
+extra life powerup
+Remove edge bleeding from ball/paddle-extensions
+TTF rendering is VERY heavy.
+  Using prerendered numbers for the highscore instead.
+  File data/gfx/highscores/numbers.png and template added 
+show lives left
+Make sure there is at least one explosive powerup in level 4
+dont announce lives left since its visible now.
+ball tail color is changed instant when "explosive" powerup applies.
+rewrote random-powerup code, 4 classes of powerups (most (common) 60%, more 30%, less 10%, least 1%)
+initial try to balance powerup spawning.
+Make a "random evil powerup" function.
+Put a random evil poweups on Doombricks.
+
+0.08b
+Found that both P and 3 was assigned to GUN powerup, only P is used now.
+Javascript leveleditor added, makes editing levels a lot easier.
+Remade level 3 and 11
+Added level 20,21
+Removed data-changelog.
+Thanks to David Wührer for pointing out a (the??) bug in the collision detection.
+
+0.09
+bricks can now drop/lift and rotate left or right (moveBoard(brick bricks[], int dir))
+Die powerup
+Add particle effect to paddle when player dies.
+Powerup objects on screen explodes when player looses life.
+Added evil powerup that makes board drop down one brick-height when ball hits paddle.
+Make 5% chance of getting a powerup default for all levels instead of 10%.
+Added "Detonate all explosive bricks" powerup
+Added level options for scolling levels, see data/levels.txt for info
+Add Explosive brick grow powerup.
+Games can now be saved and loaded.
+Saving is only available in the beginning of levels, and not in level 1.
+Corrected bug that made brick spawn powerup/effects if it is hit twice in one frame.
+New (quick/easy) level 1 (moved old level 1 to level 4)
+More levels.
+
+
+0.10
+Will choose current resolution if resx or resy is not found in settings.cfg.
+Added "All bricks can be destroyed" powerup (PO_EASYBRICK)
+Collision detection improved. (ball wont deflect off two sides at the same time, which was annoying!)
+Next-level powerup added (player won't get score for bricks that are not hit this level).
+Slow/Fast ball poweups wont be added, since there is allready "Small balls"/"Normal balls" and "Big Balls" powerups that do about the same thing.
+Aim helper pwerup added (when a ball is on collision course with paddle, a line is drawn to show deflection angle)
+Fixed bug that made PO_EXPLOSIVE_GROW happen upon ball collision instead of powerup collision.. xD
+Puts user-files (highscore,savegame,settings) in ~/.config/sdl-ball
+Added remove rule to Makefile to delete ~/.config/sdl-ball
+Only ask for name if player has a high score.
+Improved deflection precision.
+Added support for padded textures.
+Give player aimhelper when theres one brick left.
+New powerup icons and other gfx.
+
+0.11
+README added.
+Removed "flash" at exit that comes from trying to restore resolution even if it is run in windowed mode.
+Keyboard control, definable shoot,left and right keys.
+Adjustable startspeed and acceleration for keyboard and digital-joysticks. (from settings.cfg)
+Adjustable maxspeed for keyboad, digital/analog joysticks and wiimote. (from settings.cfg)
+Joystick support, analog is untested (please report if is broken), digital is tested.
+Calibration for analog joystick.
+Made buttons change in the menu, so one can see if an option is on or off.
+WiiMote supported via libusewii see README for info.
+Improved collision response (reposition ball outside the brick it hit).
+Made it spawn a random powerup if the brick contains one ;)
+4 new levels
+Padding on paddleBase and gun overlay.
+Removed overlay gfx for PO_AIM
+It is now possible to control what speed-increase the bricks have, on a per-level basis. (see data/levels.txt)
+Corrected bug that made mouseposition offset in a non 4:3 resolution. Thanks to Cids.dk for discovering it.
+Initial sound support.
+stereo option, to turn off stereo sound.
+Produced and found soundeffects which are under a free license (read data/snd/LICENSE.txt)
+ -- The sound effort is not good, if you are able to create/collect a better set, please do!
+ -- Maybe they should be more "arcade" style/retro/8bit but I can't do it.
+Don't load sounds if sound if disabled, load if enabled.
+setting.joyEnabled added.
+
+0.12rc1
+Sound is on by default.
+3 new levels.
+Screenshot function (press s to capture, saves in ~/.config/sdl-ball/screenshots/)
+Fixed minor bug, highscore-background datapath was hardcoded.
+Added GPL header and real name of author to relevant sourcefiles.
+Updated Readme
+Faster timeout (now is 20 seconds instead of 30)
+If compiled without sound, don't show the sound settings in the menu.
+Powerups are a bit larger.
+Intro screen with powerup explanations.
+Added header to savegamefile (this version is incompatible with older and will override them)
+Coins system, Player gets coins for powerups, and can buy powerups for them. (Might need balancing)
+Themes (basically do like quake.. If a file is not in the "theme tree" get it from "base") See readme
+Moved texture properties to external files so they can change with themes, for bricks
+Now possible to have diffrent colors for textureoverlay and particle effects on brick (no more white trail after hitting explosivebricks)
+Powerups can have texture overlay color, and their particle color is defined in their texture txt file
+
+0.12rc2
+Tweaked some of the powerup animations
+Addded easybrick and lasersight to shop.
+Tweaked gameplay.
+  Tweaked powerup prices (gothru should be more expensive than growexplosive)
+  Game will stop, change level, as soon as the last brick is hit, not after it dissapeared.
+  Add speed to ball even if go-thru
+  Fixed bugs in level 6,7 (too many powerups)
+Added theme-howto on website
+Made border texture square
+Removed non-free font files, replaced with the ones from nesworth until better are found.
+Updated readme with correct licensing.
+Corrected bug that made it impossible to calibrate joystick.
+
+0.12rc3
+Tweaked gameplay:
+  Speed increase from hitting a brick will be reverted to previous value for normal difficulty
+  Hard difficulty with more agressive speed-increase, higher start-speed, higher max-speed, go-thru increase speed.
+Remembers difficulty.
+Detonate powerup had same icon as Multiball, fixed now.
+
+0.13:
+Changed from "string in a texture" to string-of-quads text rendering.
+Changed max-min bounceoff angle from 10-170 to 15-165
+Fixed bug that made custom colored bricks invisible.
+It now show how many lives you have left AFTER dropping your current ball, instead of before.
+Fixed bug that made game paused after having gameover without a highscore.
+Removed "Gravity" powerdown.
+Added Cash Powerup.
+Changed fonts.
+Polished stuff..
+Shop items are more expensive
+Renamed datadir to themes and put the default theme in there, which makes more sense, since all data is in the themes.
+Added option to show time (the system time), this wont be available from menu, pres C to enable/disable.
+Achieved level saved and shown in higshcore.
+FPS (Frames Per Second) option added, default to 120 fps (without vsync), a higher value then screen-refresh is ignored if vsync is on.
+Player can only buy a powerup once per level, not per life.
+Fixed bug in collision detection
+GPL sounds. (made in sfxr, other sounds are most welcome! but they need be GPL!)
+More levels.
+Added the rest of the background images
+
+0.14:
+Changed logo to use a power of two texture (this removed lagging from introscreen, shows logo on some cards)
+Fixed crashbug that made it segfault when pressing pressing "next item" and then "buy"
+Possible to save game at all times (after level 2).
+Pressing a savegame slot when saving will write  help, so the user know what to do.
+Savegame box always shown, greyed out.
+
+0.15 aka 1.0:
+More levels. (50 Levels in total)
+Added dio-sound-theme as an optional sound-theme, try it out and give feedback on the sf.net forum
+Balls now stop completely when the game is paused.
+Added Window manager Icon to the program when it's running.
+Added http address to the intro screen.
+Disable background if it is not loaded correctly (not found/too large for gfx hw).
+Uses $XDG_CONFIG_HOME enviroment variable over $HOME if found.
+Updated Makefile accordingly to advice from Christian "idl0r" Ruppert.
+Removed "> inc" option from levels.txt
+Removed "> up", "> left" and "> right" from levels.txt
+
+1.01:
+Added some code to try and handle segfault on resolution change (that might be caused by sdl reporting a void current resolution).
+If resolution change fail, the game will quit, and not write the wrong resolution to config.
+
+Planned features:
+Some gui way of selecting individual parts of themes.
+
+Stuff that needs doing some time:
+Get more liniar increase in difficulty by sorting/adding/removing levels.

@@ -1,0 +1,5 @@
+SDL-Ball v 1.01
+Could not locate home directory defaulting to ./
+Read 50 levels from 'themes/default/levels.txt'
+Read 50 levels from 'themes/default/levels.txt'
+Thank you for playing sdl-ball ;)
