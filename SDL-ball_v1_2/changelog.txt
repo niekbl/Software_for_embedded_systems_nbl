@@ -1,0 +1,7 @@
+﻿-added spawn_test()
+-added move_test()
+-added getspeed_test()
+
+-bugfix in play_test(): When no errors are detected, the count is now zero as intended.
+-renaming of tests to match description: ***_test
+-output of the tests renamed to match other tests: "start test ***_test";"errors:";"stop test ***_test";

@@ -550,51 +550,50 @@ void play_test()
     texProp prop_test;
     prop_test = prop;
     texPos pos_test;
-
+int err = 0;
     for (int t = 0; t < 8; t++)
     {
            pos_test[t] = pos[t];
     }
     uint f_test = 1;
-int err = 0;
+
       for(row_test=0; row_test < prop_test.rows; row_test++)
       {
         for(col_test=0; col_test < prop_test.cols; col_test ++)
         {
-
-
             pos_test[0] =  (prop_test.xoffset*(float)col_test); //0.0;
             pos_test[1] =  (prop_test.yoffset*(float)row_test);//0.0;
-                        if (pos_test[0] != pos[0])
+            if (pos_test[0] != pos[0])
             {err++;}
             if (pos_test[1] != pos[1])
             {err++;}
-            if (pos_test[2] != pos[2])
-            {err++;}
+
             pos_test[2] = (prop_test.xoffset*(float)col_test) + prop_test.xoffset;
             pos_test[3] = (prop_test.yoffset*(float)row_test);//0.0;
-            if (pos_test[3] != pos[3])
+            if (pos_test[2] != pos[2])
             {err++;}
-
-            if (pos_test[4] != pos[4])
+            if (pos_test[3] != pos[3])
             {err++;}
             pos_test[4] =  (prop_test.xoffset*(float)col_test) + prop_test.xoffset; // 1
             pos_test[5] =  (prop_test.yoffset*(float)row_test) + prop_test.yoffset; // 1
+            if (pos_test[4] != pos[4])
+            {err++;}
             if (pos_test[5] != pos[5])
             {err++;}
-                        pos_test[6] = (prop_test.xoffset*(float)col_test);//0.0;
+            pos_test[6] = (prop_test.xoffset*(float)col_test);//0.0;
             pos_test[7] = (prop_test.yoffset*(float)row_test) + prop_test.yoffset; //1
             if (pos_test[6] != pos[6])
             {err++;}
             if (pos_test[7] != pos[7])
             {err++;}
 
-            cout << "test if paddletexture of picture is changing => picture changed err:" << err << endl;// 6 errors => y height stays the same.
-
-
       }
 }
+cout << "Start test : Paddle texture" << endl;
+            cout << "if paddletexture of picture is changing => picture changed err:" << err << endl;// 6 errors => y height stays the same.
+            cout << "Stop test: Paddle texture" <<endl;
 }
+
 };
 
 /* This function reads textureProperties from fileName
