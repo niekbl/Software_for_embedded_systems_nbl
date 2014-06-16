@@ -1,0 +1,7 @@
+﻿-added set_test(int, GLfloat)
+-added set_test(int, int)
+-added set_test(int, r, g, b)
+-added set_test(int, TextureClass)
+
+-clean up code, removed redundant/commented code
+-added comments to clarify test code

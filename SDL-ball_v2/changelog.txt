@@ -1,0 +1,2 @@
+﻿-clean up code, removed redundant/commented code
+-added comments to clarify test code

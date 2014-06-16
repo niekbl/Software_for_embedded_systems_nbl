@@ -1,0 +1,2 @@
+SDL-Ball v 1.01
+Could not locate home directory defaulting to ./
