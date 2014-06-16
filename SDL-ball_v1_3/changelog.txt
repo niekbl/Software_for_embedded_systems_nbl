@@ -1,0 +1,5 @@
+﻿-added initlevels_test
+-added loadlevels_test
+-added selectrandompowerups_test 
+
+-it is now possible to disable all test in main (line 4200).

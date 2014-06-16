@@ -1,0 +1,3213 @@
+Entering testing mode of program
+SDL-Ball v 1.01
+Could not locate home directory defaulting to ./
+Start test initNewgame
+no error in player difficulty: HARD
+Stop test initNewgame
+Read 50 levels from 'themes/default/levels.txt'
+Start test: Load level 1
+Power errors: 0 - Type errors: 0
+End test: Load level 1 
+Start test distribution selectRandompowerup() for 1000 values
+Most:
+Shrink: 0.07
+Bigball: 0.062
+Normalball: 0.068
+Smallball: 0.08
+Gun: 0.072
+Multiball: 0.066
+Glueball: 0.081
+Lasersight: 0.087
+More:
+Extend: 0.044
+Gothru: 0.039
+Explosive: 0.032
+Detonate: 0.04
+All brick: 0.036
+Aim: 0.041
+Coins: 0.039
+Die: 0.041
+Less:
+Dropdown: 0.027
+Grow explosive: 0.033
+Aimhelp: 0.03
+least: 
+Extralife: 0.007
+Nextlvl: 0.005
+Stop test distribution selectRandompowerup()
+Start test initlevel1
+Errors in initlevel1 test= 0
+Stop test initlevel1
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Start test Move()
+Stop test Move()
+Start test : Paddle texture
+if paddletexture of picture is changing => picture changed err:0
+Stop test: Paddle texture
+Thank you for playing sdl-ball ;)
