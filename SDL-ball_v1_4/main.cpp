@@ -4201,7 +4201,7 @@ bool screenShot()
 }
 
 int main (int argc, char *argv[]) {
-    test = 0;
+    test = 1;
     if(test == 1)
     {
         cout << "Entering testing mode of program" << endl;
